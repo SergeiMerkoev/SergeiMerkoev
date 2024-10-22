@@ -1,16 +1,18 @@
-## Hi there 👋
+## Fullstack PHP & JavaScript & Go Programmer
 
-<!--
-**SergeiMerkoev/SergeiMerkoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Сергей Меркоев** я занимаюсь веб-разработкой с 2010 года. 
 
-Here are some ideas to get you started:
+Активно использую языки HTML, CSS, JavaScript, PHP, GoLang. 
+Обажаю и пишу свои CMS и движки, а также компьютерные игры. 
+Делюсь своими наработками в области программирования. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Буду рад знакомству и сотрудничеству с вами. 
+
+### Контакты
+
+[YouTube](https://www.youtube.com/@SergeyMerkoev)
+[VK](https://vk.com/sergeymerkoev)
+[GitHub](https://github.com/SergeiMerkoev)
+
+#### Благодарность 👋
+Спасибо, за то что вы есть!
